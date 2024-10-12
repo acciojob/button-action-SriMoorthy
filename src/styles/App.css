@@ -1,1 +1,11 @@
 /* Your CSS code here. */
+/* CSS to hide the paragraph initially */
+.hide {
+    display: none;
+  }
+  
+  /* CSS to show the paragraph when the button is clicked */
+.show {
+    display: block;
+  }
+  
